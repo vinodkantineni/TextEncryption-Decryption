@@ -16,13 +16,7 @@ A simple Python application built with Tkinter for encrypting and decrypting mes
 
 ## How to Run
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/vinodkantineni/TextEncryption-Decryption.git
-    cd TextEncryption-Decryption
-    ```
-
-2.  Run the application:
+1.  Run the application:
     ```bash
     python encryptDecrypt.py
     ```
