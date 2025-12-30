@@ -40,4 +40,5 @@ A simple Python application built with Tkinter for encrypting and decrypting mes
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/7b64ac1c-7a2c-4df2-bc9d-ef45ab6e3031" />
+
