@@ -32,7 +32,7 @@ A simple Python application built with Tkinter for encrypting and decrypting mes
 5.  **Reset**: Clear all fields to start over.
 6.  **Exit**: Close the application.
 
-## Screenshots
+## User Interface
 
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/7b64ac1c-7a2c-4df2-bc9d-ef45ab6e3031" />
 
